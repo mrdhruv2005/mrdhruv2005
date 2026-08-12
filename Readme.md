@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logoColor=white" height="35"/>
 </p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=mrdhruv2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=mrdhruv2005&theme=dark&hide_border=false)<br/>
